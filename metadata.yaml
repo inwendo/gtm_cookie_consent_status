@@ -2,5 +2,5 @@ homepage: "https://inwendo.de"
 documentation: "https://inwendo.de/hilfe/"
 versions:
   # Lastest versions
-  - sha: xyz
+  - sha: 3d34eddeb96a3dbc07ef6d70e34e0244dbb76d23
     changeNotes: Initial release
