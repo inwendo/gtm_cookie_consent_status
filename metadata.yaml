@@ -1,0 +1,6 @@
+homepage: "https://inwendo.de"
+documentation: "https://inwendo.de/hilfe/"
+versions:
+  # Lastest versions
+  - sha: xyz
+    changeNotes: Initial release
